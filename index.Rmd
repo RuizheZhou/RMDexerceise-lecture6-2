@@ -12,6 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## R Markdown
 ```{r}
 34*7
+25-800
 ```
 
 
